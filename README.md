@@ -13,3 +13,6 @@
 
 ## How to Run
 Open index.html in browser
+
+## Deployment
+https://gushwork-assignment-khaki.vercel.app/
